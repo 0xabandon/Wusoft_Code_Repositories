@@ -2,7 +2,7 @@
 int main()
 {
 	int n,a3;
-	printf("请输入n=");
+	printf("脟毛脢盲脠毛n=");
 	scanf("%d",&n);
 	for(int i=1,a1=1,a2=1;i<=n-2;i++)
 	{
@@ -14,6 +14,6 @@ int main()
 	{
 		a3=1;
 	}
-	printf("兔子有%d只",a3);
+	printf("脥脙脳脫脫脨%d脰禄",a3);
 	return 0;		
 }
